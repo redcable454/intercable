@@ -3,14 +3,14 @@
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="2" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png" group-title="",Latina HD
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://cdn.m3u.cl/logo/1092_Planeta_TV.png" group-title="",Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/2Wc9Vd8.jpg" group-title="",XTV JAEN 
+https://live.obslivestream.com/xtvplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/iZvRznp.jpg" group-title="",America tv
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-logo="https://cdn.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="",Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="6" tvg-logo="https://cdn.m3u.cl/logo/684_Nativa.png" group-title="",Nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/T8C5Mpr.jpg" group-title="",Top latino tv
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="https://cdn.m3u.cl/logo/969_Onda_Digital_TV.png" group-title="",Onda Digital TV
 https://v4.tustreaming.cl:443/ondadigitaltv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="8" tvg-logo="https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="",TV Peru Noticias HD
@@ -23,23 +23,23 @@ https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="12" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png" group-title="",Autentica TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="13" tvg-logo="https://cdn.m3u.cl/logo/1097_Canal_8_Catacaos.png" group-title="",Canal 8 Catacaos
-https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="14" tvg-logo="https://cdn.m3u.cl/logo/1188_Controversia_TV.png" group-title="",Controversia TV
-https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="15" tvg-logo="https://cdn.m3u.cl/logo/1180_CR_TV.png" group-title="",CR TV
-https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="16" tvg-logo="https://cdn.m3u.cl/logo/696_Cultura_24_TV.png" group-title="",Cultura 24 TV
-https://www.opencaster.com/resources/hls_stream/cultura24.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="17" tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png" group-title="",DMJ
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="18" tvg-logo="https://cdn.m3u.cl/logo/1659_Foro_TV.png" group-title="",Foro TV
-https://mc.servidor.stream:19360/8274/8274.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="19" tvg-logo="https://cdn.m3u.cl/logo/690_JN19.png" group-title="",JN19
-https://servilive.com:3028/live/jntv19live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="20" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png" group-title="",LATINA HD 2
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="21" tvg-logo="https://cdn.m3u.cl/logo/689_Mega_TV_Arequipa.png" group-title="",Mega TV Arequipa
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/nX7JKZR.png" group-title="",Willas tv
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/TqsVyDt.jpg" group-title="",Bethel tv
+https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="https://i.imgur.com/V8ye6P0.jpg" group-title="",Nuevo tiempo tv
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="https://i.imgur.com/HxUHMWa.png" group-title="",Karibeña tv
+https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://i.imgur.com/sa8rmyS.jpg" group-title="",Tierra mia tv
+http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="https://i.imgur.com/uTSDsiS.png" group-title="",Music top
+http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="https://i.imgur.com/tKyvPXf.jpg" group-title="",Hoy Perú tv
+https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://i.imgur.com/YVqyH1i.png" group-title="",FM MOVIES
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="https://i.imgur.com/nikozfw.jpg" group-title="",Mega TV Arequipa
 https://mc.servidor.stream:19360/megatv/megatv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="22" tvg-logo="https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png" group-title="",Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
