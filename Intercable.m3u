@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png" group-title="",Canal intercable
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/ennUGc2.png" group-title="",Canal intercable
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="2" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png" group-title="",Latina HD
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
@@ -43,14 +43,14 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
 https://mc.servidor.stream:19360/megatv/megatv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="22" tvg-logo="https://cdn.m3u.cl/logo/1491_Mega_TV_Jaen.png" group-title="",Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="23" tvg-logo="https://cdn.m3u.cl/logo/1095_OK_TeVe.png" group-title="",OK TeVe
-https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL
+#EXTINF:-1 tvg-id="23" tvg-logo="https://i.imgur.com/WHxfQLG.png" group-title="",Sol tv
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8?Playlisintercable
 #EXTINF:-1 tvg-id="24" tvg-logo="https://cdn.m3u.cl/logo/1667_Onda_Digital_TV_2.png" group-title="",Onda Digital TV 2
 https://v4.tustreaming.cl:443/odtv2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="25" tvg-logo="https://cdn.m3u.cl/logo/699_Ovacion.png" group-title="",Ovacion
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="26" tvg-logo="https://cdn.m3u.cl/logo/1578_PANC_TV_Peru.png" group-title="",PANC TV Peru
-https://panel.host-live.com:19360/20000/20000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="26" tvg-logo="https://i.imgur.com/WtlA7GZ.png" group-title="",Canal ipe
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="27" tvg-logo="https://cdn.m3u.cl/logo/1187_Sanjuanera_TV.png" group-title="",Sanjuanera TV
 https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="28" tvg-logo="https://cdn.m3u.cl/logo/1658_Solar_TV_Cusco.png" group-title="",Solar TV Cusco
@@ -61,22 +61,22 @@ https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="31" tvg-logo="https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png" group-title="",TV en linea Cusco
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="32" tvg-logo="https://cdn.m3u.cl/logo/1091_TVPE.png" group-title="",TVPE
+#EXTINF:-1 tvg-id="32" tvg-logo="https://cdn.m3u.cl/logo/1091_TVPE.png" group-title="",TV PERU
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="33" tvg-logo="https://cdn.m3u.cl/logo/686_TVperuanisima.png" group-title="",TVperuanisima
-https://k20.usastreams.com:8081/tvperuanisima/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="33" tvg-logo="https://i.imgur.com/eAwMjQv.png" group-title="",TV PERU INTERNACIONAL
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="34" tvg-logo="https://cdn.m3u.cl/logo/1094_Uranio_TV.png" group-title="",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="35" tvg-logo="https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png" group-title="",Via Alto Mayo TV
 https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="36" tvg-logo="https://cdn.m3u.cl/logo/703_Via_Television_Tarapoto.png" group-title="",Via Television Tarapoto
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="37" tvg-logo="https://cdn.m3u.cl/logo/1490_Vision_Sur_Television.png" group-title="",Vision Sur Television
+#EXTINF:-1 tvg-id="37" tvg-logo="https://cdn.m3u.cl/logo/1490_Vision_Sur_Television.png" group-title="",Vision Sur Television HD
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="38" tvg-logo="https://cdn.m3u.cl/logo/1183_VZ_TV.png" group-title="",VZ TV
-https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="39" tvg-logo="https://cdn.m3u.cl/logo/1555_Emanuel7_TV.png" group-title="",Emanuel7 TV
-https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="40" tvg-logo="https://cdn.m3u.cl/logo/1580_Presencia_TV.png" group-title="",Presencia TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="38" tvg-logo="https://i.imgur.com/rzIHiZF.png" group-title="",FM KIDS TV
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="https://i.imgur.com/dgJ8oxR.jpg" group-title="",Orbit tv
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="40" tvg-logo="https://i.imgur.com/7ITygLm.png" group-title="",Canal luz
+https://g1.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8
 
