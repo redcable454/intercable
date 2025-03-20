@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/ennUGc2.png" group-title="",Canal intercable
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.imgur.com/qnbrSHl.png" group-title="",Canal intercable
+https://i.imgur.com/OKmqgeD.mp4
 #EXTINF:-1 tvg-id="2" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png" group-title="",Latina HD
 https://jireh-5-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://i.imgur.com/2Wc9Vd8.jpg" group-title="",XTV JAEN 
@@ -21,8 +21,8 @@ https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="11" tvg-logo="https://cdn.m3u.cl/logo/1066_ATV_.png" group-title="",ATV+
 https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="12" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png" group-title="",Autentica TV
-https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/3GrsoqU.png" group-title="", Panamericana tv
+https://ia801205.us.archive.org/28/items/Intercableindisponible/InShot_20250319_233125789.mp4
 #EXTINF:-1 tvg-id="13" tvg-logo="https://i.imgur.com/nX7JKZR.png" group-title="",Willas tv
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://i.imgur.com/TqsVyDt.jpg" group-title="",Bethel tv
